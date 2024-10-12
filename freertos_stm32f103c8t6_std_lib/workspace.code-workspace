@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.encoding": "gb2312",
+        "files.associations": {
+            "bsp_iwdg.h": "c",
+            "freertos.h": "c",
+            "stm32f10x.h": "c",
+            "usart.h": "c",
+            "stm32f10x_gpio.h": "c",
+            "freertosconfig.h": "c",
+            "task.h": "c",
+            "stdarg.h": "c",
+            "main.h": "c",
+            "stm32f10x_usart.h": "c",
+            "system_stm32f10x.h": "c"
+        }
+    }
+}

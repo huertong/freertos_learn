@@ -1,0 +1,11 @@
+/freertos_stm32f103c8t6_std_lib/Untitled Project.si4project
+/freertos_stm32f103c8t6_std_lib/MDK-ARM/Output/**
+/freertos_stm32f103c8t6_std_lib/MDK-ARM/RTE/
+/freertos_stm32f103c8t6_std_lib/MDK-ARM/DebugConfig/
+/freertos_stm32f103c8t6_std_lib/MDK-ARM/Listing/
+JLinkLog.txt
+/freertos_stm32f103c8t6_std_lib/MDK-ARM/**.scvd
+/freertos_stm32f103c8t6_std_lib/MDK-ARM/**.sun
+
+!/freertos_stm32f103c8t6_std_lib/MDK-ARM/Output/**.hex
+!/freertos_stm32f103c8t6_std_lib/MDK-ARM/Output/**.axf
